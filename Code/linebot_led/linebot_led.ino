@@ -5,7 +5,7 @@
 const char* ssid     = "Daisan no bakudan!";  
 const char* password = "hugo1234"; 
 
-const char* host = "http://ggwp007bt.herokuapp.com/"; // ตัวอย่างเช่น http://ชื่อappของคุณ.herokuapp.com/bot.php
+const char* host = "https://ggwp007bt.herokuapp.com/"; // ตัวอย่างเช่น http://ชื่อappของคุณ.herokuapp.com/bot.php
 #define APPID   "ggwp007bt" // ชื่อ APP ID ใน NETPIE
 #define KEY     "wvfqNaIvOKa98bI" // key ของ Device Key
 #define SECRET  "bt0rdZvYiVitWb1x57gwCDag9" // Secret ของ Device Key
