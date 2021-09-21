@@ -27,14 +27,14 @@ if (!is_null($events['events'])) {
 
 			// Build message to reply back
 
-			$Topic = "esp8266" ;
+			$Topic = "ggwp007bt" ;
 			getMqttfromlineMsg($Topic,$text);
 			   
 			
 		}
 	}
 }
-$Topic = "esp8266" ;
+$Topic = "ggwp007bt" ;
 $text = "test";
 getMqttfromlineMsg($Topic,$text);
 echo "OK3";
